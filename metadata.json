@@ -1,0 +1,7 @@
+{
+  "name": "Copy of BCG Pre-talk AI Interviewer",
+  "description": "A specialized AI case interviewer for BCG pre-talk preparation, featuring Market Sizing, Market Entry, Launch, and M&A cases in English and Chinese.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
